@@ -2,6 +2,9 @@
 
 Sharks Team Project for self-improvement and learning purpose.
 
-## Idea Collections
+## Ideas Collection:
 
-1. Algorithm Collections Site.
+#### Algorithm Collections Site.
+
+#### Movie Rating Site
+This would allow users to track trending movies as well as rate their favorite movies.
